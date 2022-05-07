@@ -16,7 +16,7 @@ I'm working on bringing my backlog of project ideas to life! My passion is to us
 
 😄 Pronouns: she/her 
 
-⚡ Fun fact: I love to take naps. 
+💖 Fun fact: I love to take naps. 
 
 
 <!--
