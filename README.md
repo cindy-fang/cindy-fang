@@ -10,7 +10,6 @@ I'm working on bringing my backlog of project ideas to life! My passion is to us
 📫 How to reach me: cindy.fang@ryerson.ca 
 😄 Pronouns: she/her 
 ⚡ Fun fact: I love to take naps. 
-📃 View my resume: https://JackyLy.ca/resume
 
 <!--
 **cindy-fang/cindy-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
