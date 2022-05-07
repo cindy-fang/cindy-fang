@@ -6,7 +6,7 @@ I'm working on bringing my backlog of project ideas to life! My passion is to us
 
 🔭 Currently working on a project that makes life easier for job hunters (like me). 
 
-🌱 Currently learning how to automate tasks with Python and Bash scripts at my internship! 
+🌱 Currently learning about networks how to automate tasks with Python and Bash scripts at my internship! 
 
 💬 Ask me about my involvement and interest in the tech community, got lots to share :) 
 
