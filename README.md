@@ -10,7 +10,7 @@ I'm working on bringing my backlog of project ideas to life! My passion is to us
 
 💬 Ask me about my involvement and interest in the tech community, got lots to share :) 
 
-📫 How to reach me: cindy.fang@ryerson.ca 
+📫 How to reach me: cindy.fang@torontomu.ca 
 
 ⚡ My LinkedIn: https://www.linkedin.com/in/cindy-f-ang/
 
