@@ -4,7 +4,7 @@ Hi! My name is Cindy Fang and I'm 5th year a CS co-op student @ TornontoMet Univ
 
 I'm working on bringing my backlog of project ideas to life! My passion is to use code to create solutions that can help others. 
 
-🌱 Currently learning about backend dev and microservices at my internship! 
+🌱 Currently reinforcing my dev skills through hackathons and courses! 
 
 💬 Ask me about my involvement and interest in the tech community, got lots to share :) 
 
