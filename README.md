@@ -1,10 +1,8 @@
 ### Welcome to my GitHub 👋
 
-Hi! My name is Cindy Fang and I'm 4th year a CS co-op student @ TornontoMet University.
+Hi! My name is Cindy Fang and I'm 5th year a CS co-op student @ TornontoMet University.
 
 I'm working on bringing my backlog of project ideas to life! My passion is to use code to create solutions that can help others. 
-
-🔭 Currently working on a K-pop idol facial recognition and identification project. 
 
 🌱 Currently learning about backend dev and microservices at my internship! 
 
