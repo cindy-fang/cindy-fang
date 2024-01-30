@@ -12,8 +12,6 @@ I'm working on bringing my backlog of project ideas to life! My passion is to us
 
 ⚡ My LinkedIn: https://www.linkedin.com/in/cindy-f-ang/
 
-😄 Pronouns: she/her 
-
 💖 Fun fact: I love to take naps. 
 
 
