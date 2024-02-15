@@ -2,19 +2,6 @@
 
 Hi! My name is Cindy Fang and I'm 5th year a CS co-op student @ TornontoMet University.
 
-I'm working on bringing my backlog of project ideas to life! My passion is to use code to create solutions that can help others. 
-
-🌱 Currently reinforcing my dev skills through hackathons and courses! 
-
-💬 Ask me about my involvement and interest in the tech community, got lots to share :) 
-
-📫 How to reach me: cindy.fang@torontomu.ca 
-
-⚡ My LinkedIn: https://www.linkedin.com/in/cindy-f-ang/
-
-💖 Fun fact: I love to take naps. 
-
-
 <!--
 **cindy-fang/cindy-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
