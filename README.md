@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-Hi! My name is Cindy Fang and I'm 5th year a CS co-op student @ TornontoMet University.
+Hi! My name is Cindy Fang and I'm 5th year a CS student @ TornontoMet University.
 
 <!--
 **cindy-fang/cindy-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
