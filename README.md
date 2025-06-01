@@ -1,6 +1,6 @@
 ### Welcome to my GitHub 👋
 
-Hi! My name is Cindy Fang and I'm a CS new grad from Toronto Metropolitan University.
+Hi! My name is Cindy Fang and I'm a CS new grad from Toronto Metropolitan University working in fintech!
 
 <!--
 **cindy-fang/cindy-fang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
